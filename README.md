@@ -1,10 +1,9 @@
-# ZJU-CSE-AI-ML-Writer-Style-Recognize
-浙江大学控制科学与工程学院《人工智能与机器学习》课程“作家风格识别”实验 50/50 正确率100%
+# 
 
 - 资料仅供参考，请勿直接使用或者抄袭！
 - 如果有用，请为我点一颗星，谢谢！
 
-<center><strong><font size="8">作家风格识别
+<center><strong><font size="8">
 
 
 
